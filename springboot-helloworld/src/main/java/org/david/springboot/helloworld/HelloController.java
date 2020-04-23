@@ -24,4 +24,13 @@ public class HelloController {
 
         return "david";
     }
+
+    @ResponseBody
+    @RequestMapping("/hello1")
+    public String hello1(){
+
+        String result = helloService.getName("david");
+
+        return "david";
+    }
 }
