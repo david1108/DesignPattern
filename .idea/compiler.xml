@@ -6,19 +6,40 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="NoWebExample" />
-        <module name="struct1-adapter" />
-        <module name="action3-command" />
-        <module name="struct5-flyweight" />
-        <module name="struct4-facade" />
         <module name="WebExample" />
-        <module name="struct3-proxy" />
+        <module name="action6-strategy" />
         <module name="action2-chain" />
-        <module name="action4-iterator" />
+        <module name="create1-factorymethod" />
+        <module name="NoWebExample" />
+        <module name="create2-abstractfactory" />
+        <module name="struct2-decorator" />
+        <module name="other-create1-1-simplefactory" />
+        <module name="action10-visitor" />
+        <module name="create5-singleton" />
+        <module name="struct3-proxy" />
         <module name="action1-template" />
+        <module name="struct4-facade" />
+        <module name="action9-state" />
+        <module name="create3-builder" />
+        <module name="action4-iterator" />
+        <module name="action3-command" />
+        <module name="struct1-adapter" />
+        <module name="struct5-flyweight" />
+        <module name="action8-observer" />
+        <module name="create4-prototype" />
+        <module name="action7-interpreter" />
+        <module name="action11-mediator" />
+        <module name="other-action1-delegate" />
+        <module name="action5-memento" />
         <module name="struct7-bridge" />
         <module name="struct6-composite" />
-        <module name="struct2-decorator" />
+        <module name="other-create1-2-factory-pool" />
+      </profile>
+      <profile name="Annotation profile for DesignPattern" enabled="true">
+        <sourceOutputDir name="../sptingboot-helloworld/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../sptingboot-helloworld/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-helloworld" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
@@ -26,6 +47,8 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="action1-template" options="-parameters" />
+      <module name="action9-state" options="-parameters" />
+      <module name="springboot-helloworld" options="-parameters" />
     </option>
   </component>
 </project>

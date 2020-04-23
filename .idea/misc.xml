@@ -19,6 +19,22 @@
         <option value="$PROJECT_DIR$/struct6-composite/pom.xml" />
         <option value="$PROJECT_DIR$/struct7-bridge/pom.xml" />
         <option value="$PROJECT_DIR$/action1-template/pom.xml" />
+        <option value="$PROJECT_DIR$/action5-memento/pom.xml" />
+        <option value="$PROJECT_DIR$/action6-strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/action7-interpreter/pom.xml" />
+        <option value="$PROJECT_DIR$/action8-observer/pom.xml" />
+        <option value="$PROJECT_DIR$/action9-state/pom.xml" />
+        <option value="$PROJECT_DIR$/action10-visitor/pom.xml" />
+        <option value="$PROJECT_DIR$/action11-mediator/pom.xml" />
+        <option value="$PROJECT_DIR$/create1-factorymethod/pom.xml" />
+        <option value="$PROJECT_DIR$/create2-abstractfactory/pom.xml" />
+        <option value="$PROJECT_DIR$/create3-builder/pom.xml" />
+        <option value="$PROJECT_DIR$/create4-prototype/pom.xml" />
+        <option value="$PROJECT_DIR$/create5-singleton/pom.xml" />
+        <option value="$PROJECT_DIR$/other-action1-delegate/pom.xml" />
+        <option value="$PROJECT_DIR$/other-create1-1-simplefactory/pom.xml" />
+        <option value="$PROJECT_DIR$/other-create1-2-factory-pool/pom.xml" />
+        <option value="$PROJECT_DIR$/sptingboot-helloworld/pom.xml" />
       </list>
     </option>
   </component>
