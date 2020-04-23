@@ -9,9 +9,40 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>WebExample</module>
         <module>NoWebExample</module>
-    </modules>
+        <module>WebExample </module>
 
+        <module>create1-factorymethod </module>
+        <module>create2-abstractfactory</module>
+        <module>create3-builder</module>
+        <module>create4-prototype</module>
+        <module>create5-singleton</module>
+
+        <module>struct1-adapter </module>
+        <module>struct2-decorator </module>
+        <module>struct3-proxy </module>
+        <module>struct4-facade </module>
+        <module>struct5-flyweight </module>
+        <module>struct6-composite </module>
+        <module>struct7-bridge </module>
+
+        <module>action1-template </module>
+        <module>action2-chain </module>
+        <module>action3-command </module>
+        <module>action4-iterator </module>
+        <module>action5-memento </module>
+        <module>action6-strategy </module>
+        <module>action7-interpreter</module>
+        <module>action8-observer</module>
+        <module>action9-state</module>
+        <module>action10-visitor</module>
+        <module>action11-mediator</module>
+
+        <module>other-action1-delegate</module>
+        <module>other-create1-1-simplefactory</module>
+        <module>other-create1-2-factory-pool</module>
+        <module>springboot-helloworld</module>
+
+    </modules>
 
 </project>
