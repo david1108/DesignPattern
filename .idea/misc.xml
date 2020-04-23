@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/WebExample" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/action2-chain/pom.xml" />
+        <option value="$PROJECT_DIR$/action3-command/pom.xml" />
+        <option value="$PROJECT_DIR$/action4-iterator/pom.xml" />
+        <option value="$PROJECT_DIR$/struct3-proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/struct1-adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/struct2-decorator/pom.xml" />
+        <option value="$PROJECT_DIR$/struct4-facade/pom.xml" />
+        <option value="$PROJECT_DIR$/struct5-flyweight/pom.xml" />
+        <option value="$PROJECT_DIR$/struct6-composite/pom.xml" />
+        <option value="$PROJECT_DIR$/struct7-bridge/pom.xml" />
+        <option value="$PROJECT_DIR$/action1-template/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

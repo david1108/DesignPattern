@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="NoWebExample" />
+        <module name="struct1-adapter" />
+        <module name="action3-command" />
+        <module name="struct5-flyweight" />
+        <module name="struct4-facade" />
+        <module name="WebExample" />
+        <module name="struct3-proxy" />
+        <module name="action2-chain" />
+        <module name="action4-iterator" />
+        <module name="action1-template" />
+        <module name="struct7-bridge" />
+        <module name="struct6-composite" />
+        <module name="struct2-decorator" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="action1-template" options="-parameters" />
+    </option>
+  </component>
+</project>
